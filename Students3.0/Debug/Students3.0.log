@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\Aziz\source\repos\Students3.0\Students3.0\MyForm.cpp(151,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Aziz\source\repos\Students3.0\Students3.0\MyForm.cpp(152,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Aziz\source\repos\Students3.0\Students3.0\MyForm.cpp(153,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Students3.0.vcxproj -> C:\Users\Aziz\source\repos\Students3.0\Debug\Students3.0.exe
